@@ -4,7 +4,7 @@
 
 # Webpack Template
 
-> Build a simple yet powerful webpack boilerplate. Webpack is a static module bundler for modern JavaScript applications. It is intelligent enough to build all app dependencies based on file imports.
+> Created a simple yet powerful webpack boilerplate, which users can use as a starting point for the webpack based projects. Webpack is a static module bundler for modern JavaScript applications. It is intelligent enough to build all app dependencies based on file imports.
 
 ## Built With
 
